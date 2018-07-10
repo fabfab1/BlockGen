@@ -1,0 +1,105 @@
+body {
+        background-image: url("images/bgimage_mudbrick2.jpg");
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-variant: normal;
+    font-size: 4vw;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    font-weight: normal;
+    font-variant: normal;
+    font-size: 2.5vw;
+}
+
+h3 {
+    color: black;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-variant: normal;
+    font-size: 2vw;
+}
+
+h4 {
+    color: black;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: small-caps;
+    font-size: 1.7vw;
+}
+
+p {
+    color: black;
+    text-align: left;
+    font-family: "Times New Roman", Times, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    font-size: 2.5vw;
+}
+
+.card {
+    position: relative;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border: 1px solid black;
+    box-sizing: border-box;
+    transition: 0.3s;
+    width: 24%;
+}
+
+.card p {
+    color: black;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    font-weight: normal;
+    font-variant: normal;
+    font-size: 1.5vw;
+}
+
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+    padding: 2px 16px;
+}
+
+.cardrow {
+  margin: 50px;
+}
+ 
+/* For modern browsers */
+.cardrow:before,
+.cardrow:after {
+    content:"";
+    display:table;
+}
+ 
+.cardrow:after {
+    clear:both;
+}
+ 
+/* For IE 6/7 (trigger hasLayout) */
+.cardrow{
+    zoom:1;
+}
