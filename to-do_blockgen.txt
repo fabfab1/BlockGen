@@ -1,0 +1,9 @@
+BlockGen notes from gB ZD206
+
+"    General. This is a great program, and with a little time you can make it widely usable. It would also be a good addition to your dossier. It would be good to write a short article (for instance for JFA), as you did for EnCAB, with reference to the program.
+
+    Website. I suggest you purchase a domain: there is a company called BlockGen that has most of the extensions, but .XYZ or .ORG are available.
+
+    Server. Here, too, I would use the Fowler server with Beola as a backup.
+
+    Introductory video. As for EnCAB, you should have an explanation of what the program does and how it works. This is a little easier to follow because of what you say in BiMes 30, but it would be easier to have it in the website itself. This would be an easy thing for you to do, with great returns."
